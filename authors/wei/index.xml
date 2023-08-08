@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Hang | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/wei/</link>
+      <atom:link href="https://yz-lab.org/main/authors/wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Hang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://yz-lab.org/main/authors/wei/avatar_hu0c8e74904678682a2c77b7112cf92037_29660_270x270_fill_q75_lanczos_center.JPG</url>
+      <title>Wei Hang</title>
+      <link>https://yz-lab.org/main/authors/wei/</link>
+    </image>
+    
+  </channel>
+</rss>

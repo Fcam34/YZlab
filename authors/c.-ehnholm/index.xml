@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Ehnholm | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/c.-ehnholm/</link>
+      <atom:link href="https://yz-lab.org/main/authors/c.-ehnholm/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Ehnholm</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title>C. Ehnholm</title>
+      <link>https://yz-lab.org/main/authors/c.-ehnholm/</link>
+    </image>
+    
+    <item>
+      <title>OSBP-Related Proteins (ORPs) in Human Adipose Depots and Cultured Adipocytes: Evidence for Impacts on the Adipocyte Phenotype</title>
+      <link>https://yz-lab.org/main/publication/refworks1149/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1149/</guid>
+      <description>&lt;p&gt;JID: 101285081; OID: NLM: PMC3448648; 2012/06/30 [received]; 2012/08/15 [accepted]; 2012/09/21 [epublish]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

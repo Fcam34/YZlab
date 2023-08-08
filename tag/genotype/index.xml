@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> genotype | YZ Lab</title>
+    <link>https://yz-lab.org/main/tag/genotype/</link>
+      <atom:link href="https://yz-lab.org/main/tag/genotype/index.xml" rel="self" type="application/rss+xml" />
+    <description> genotype</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title> genotype</title>
+      <link>https://yz-lab.org/main/tag/genotype/</link>
+    </image>
+    
+    <item>
+      <title>Impaired hepatic lipid synthesis from polyunsaturated fatty acids in TM6SF2 E167K variant carriers with NAFLD</title>
+      <link>https://yz-lab.org/main/publication/refworks1426/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1426/</guid>
+      <description>&lt;p&gt;LR: 20170619; CI: Copyright (c) 2017; JID: 8503886; OTO: NOTNLM; 2016/11/28 [received]; 2017/02/07 [revised]; 2017/02/10 [accepted]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The effect of hOGG1 Ser326Cys polymorphism on cancer risk: evidence from a meta-analysis</title>
+      <link>https://yz-lab.org/main/publication/refworks1151/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1151/</guid>
+      <description>&lt;p&gt;JID: 101285081; EC 3.2.2.- (DNA Glycosylases); EC 3.2.2.- (oxoguanine glycosylase 1, human); OID: NLM: PMC3219678; 2011/06/01 [received]; 2011/10/18 [accepted]; 2011/11/17 [epublish]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

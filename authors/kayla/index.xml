@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kayla Chan | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/kayla/</link>
+      <atom:link href="https://yz-lab.org/main/authors/kayla/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kayla Chan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://yz-lab.org/main/authors/kayla/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kayla Chan</title>
+      <link>https://yz-lab.org/main/authors/kayla/</link>
+    </image>
+    
+  </channel>
+</rss>

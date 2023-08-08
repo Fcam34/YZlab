@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> inflammation | YZ Lab</title>
+    <link>https://yz-lab.org/main/tag/inflammation/</link>
+      <atom:link href="https://yz-lab.org/main/tag/inflammation/index.xml" rel="self" type="application/rss+xml" />
+    <description> inflammation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title> inflammation</title>
+      <link>https://yz-lab.org/main/tag/inflammation/</link>
+    </image>
+    
+    <item>
+      <title>Prostaglandin E2 directly inhibits the conversion of inducible regulatory T cells through EP2 and EP4 receptors via antagonizing TGF-beta signalling</title>
+      <link>https://yz-lab.org/main/publication/refworks1495/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1495/</guid>
+      <description>&lt;p&gt;LR: 20210916; CI: This article is protected by copyright. All rights reserved.; JID: 0374672; OTO: NOTNLM; 2021/09/16 17:27 [entrez]; 2021/09/17 06:00 [pubmed]; 2021/09/17 06:00 [medline]; aheadofprint&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Obesity/insulin resistance rather than liver fat increases coagulation factor activities and expression in humans</title>
+      <link>https://yz-lab.org/main/publication/refworks1419/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1419/</guid>
+      <description>&lt;p&gt;LR: 20170126; JID: 7608063; OTO: NOTNLM; 2016/09/21 [received]; 2016/11/11 [accepted]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

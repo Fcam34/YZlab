@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Xi | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/b.-xi/</link>
+      <atom:link href="https://yz-lab.org/main/authors/b.-xi/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Xi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title>B. Xi</title>
+      <link>https://yz-lab.org/main/authors/b.-xi/</link>
+    </image>
+    
+    <item>
+      <title>Association of GSTM1 null allele with prostate cancer risk: evidence from 36 case-control studies</title>
+      <link>https://yz-lab.org/main/publication/refworks1366/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1366/</guid>
+      <description>&lt;p&gt;LR: 20131114; JID: 101285081; EC 2.5.1.18 (Glutathione Transferase); EC 2.5.1.18 (glutathione S-transferase M1); OID: NLM: PMC3468624; 2012/04/21 [received]; 2012/09/07 [accepted]; 2012/10/10 [epublish]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The effect of hOGG1 Ser326Cys polymorphism on cancer risk: evidence from a meta-analysis</title>
+      <link>https://yz-lab.org/main/publication/refworks1151/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1151/</guid>
+      <description>&lt;p&gt;JID: 101285081; EC 3.2.2.- (DNA Glycosylases); EC 3.2.2.- (oxoguanine glycosylase 1, human); OID: NLM: PMC3219678; 2011/06/01 [received]; 2011/10/18 [accepted]; 2011/11/17 [epublish]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

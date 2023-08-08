@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Q. Liu | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/q.-liu/</link>
+      <atom:link href="https://yz-lab.org/main/authors/q.-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Q. Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title>Q. Liu</title>
+      <link>https://yz-lab.org/main/authors/q.-liu/</link>
+    </image>
+    
+    <item>
+      <title>NETosis promotes chronic inflammation and fibrosis in systemic lupus erythematosus and COVID-19</title>
+      <link>https://yz-lab.org/main/publication/rn176/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/rn176/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isoform-specific interaction of pyruvate kinase with hepatitis C virus NS5B</title>
+      <link>https://yz-lab.org/main/publication/refworks1036/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1036/</guid>
+      <description>&lt;p&gt;JID: 0155157; 0 (Isoenzymes); 0 (NS-5 protein, hepatitis C virus); 0 (Viral Nonstructural Proteins); EC 2.7.1.40 (Pyruvate Kinase); 2008/01/28 [received]; 2008/04/20 [revised]; 2008/05/07 [accepted]; 2008/06/02 [aheadofprint]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

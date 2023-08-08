@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X. F. Sun | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/x.-f.-sun/</link>
+      <atom:link href="https://yz-lab.org/main/authors/x.-f.-sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>X. F. Sun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title>X. F. Sun</title>
+      <link>https://yz-lab.org/main/authors/x.-f.-sun/</link>
+    </image>
+    
+    <item>
+      <title>Modelling hybrid acoustofluidic devices for enhancing Nano- and Micro-Particle manipulation in microfluidics</title>
+      <link>https://yz-lab.org/main/publication/rn178/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/rn178/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W. Zhong | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/w.-zhong/</link>
+      <atom:link href="https://yz-lab.org/main/authors/w.-zhong/index.xml" rel="self" type="application/rss+xml" />
+    <description>W. Zhong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title>W. Zhong</title>
+      <link>https://yz-lab.org/main/authors/w.-zhong/</link>
+    </image>
+    
+    <item>
+      <title>Autophagy-associated circRNA circCDYL augments autophagy and promotes breast cancer progression</title>
+      <link>https://yz-lab.org/main/publication/refworks1474/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1474/</guid>
+      <description>&lt;p&gt;LR: 20200414; JID: 101147698; OTO: NOTNLM; 2019/06/23 00:00 [received]; 2020/02/13 00:00 [accepted]; 2020/03/28 06:00 [entrez]; 2020/03/28 06:00 [pubmed]; 2020/03/28 06:00 [medline]; epublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Circular RNA hsa_circ_001783 regulates breast cancer progression via sponging miR-200c-3p</title>
+      <link>https://yz-lab.org/main/publication/refworks1460/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1460/</guid>
+      <description>&lt;p&gt;LR: 20190214; JID: 101524092; 2018/05/28 00:00 [received]; 2018/10/24 00:00 [accepted]; 2018/09/09 00:00 [revised]; 2019/01/24 06:00 [entrez]; 2019/01/24 06:00 [pubmed]; 2019/01/24 06:00 [medline]; epublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OSBP-related protein 8 (ORP8) interacts with Homo sapiens sperm associated antigen 5 (SPAG5) and mediates oxysterol interference of HepG2 cell cycle</title>
+      <link>https://yz-lab.org/main/publication/refworks1371/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1371/</guid>
+      <description>&lt;p&gt;CI: Copyright (c) 2014; JID: 0373226; 0 (Cell Cycle Proteins); 0 (Hydroxycholesterols); 0 (Receptors, Steroid); 0 (SPAG5 protein, human); 0 (oxysterol binding protein); 767JTD2N31 (25-hydroxycholesterol); OTO: NOTNLM; 2013/01/10 [received]; 2013/12/19 [revised]; 2014/01/03 [accepted]; 2014/01/11 [aheadofprint]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OSBP-related protein 7 interacts with GATE-16 and negatively regulates GS28 protein stability</title>
+      <link>https://yz-lab.org/main/publication/refworks1035/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1035/</guid>
+      <description>&lt;p&gt;CI: Copyright (c) 2011; JID: 0373226; 2011/04/27 [received]; 2011/05/26 [revised]; 2011/05/28 [accepted]; 2011/06/06 [aheadofprint]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OSBP-related protein 11 (ORP11) dimerizes with ORP9 and localizes at the Golgi-late endosome interface</title>
+      <link>https://yz-lab.org/main/publication/refworks1033/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1033/</guid>
+      <description>&lt;p&gt;CI: Copyright (c) 2010; JID: 0373226; 0 (Lipids); 0 (Phosphatidylinositols); 0 (Receptors, Steroid); 0 (enhanced green fluorescent protein); 0 (oxysterol receptor); 147336-22-9 (Green Fluorescent Proteins); 2010/04/21 [received]; 2010/06/01 [revised]; 2010/06/07 [accepted]; 2010/06/16 [aheadofprint]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

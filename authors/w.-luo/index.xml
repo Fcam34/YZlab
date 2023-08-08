@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W. Luo | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/w.-luo/</link>
+      <atom:link href="https://yz-lab.org/main/authors/w.-luo/index.xml" rel="self" type="application/rss+xml" />
+    <description>W. Luo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title>W. Luo</title>
+      <link>https://yz-lab.org/main/authors/w.-luo/</link>
+    </image>
+    
+    <item>
+      <title>Interleukin-22 ameliorates liver fibrosis through miR-200a/beta-catenin</title>
+      <link>https://yz-lab.org/main/publication/refworks1421/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1421/</guid>
+      <description>&lt;p&gt;LR: 20170220; JID: 101563288; 2016/05/10 [received]; 2016/10/17 [accepted]; epublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A deleterious role for Th9/IL-9 in hepatic fibrogenesis</title>
+      <link>https://yz-lab.org/main/publication/refworks1397/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1397/</guid>
+      <description>&lt;p&gt;LR: 20160114; JID: 101563288; OID: NLM: PMC4700496; 2015/04/21 [received]; 2015/11/23 [accepted]; epublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meta-Analysis of Prognostic and Clinical Significance of CD44v6 in Esophageal Cancer</title>
+      <link>https://yz-lab.org/main/publication/refworks1391/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1391/</guid>
+      <description>&lt;p&gt;JID: 2985248R; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OSBP-related protein 8 (ORP8) interacts with Homo sapiens sperm associated antigen 5 (SPAG5) and mediates oxysterol interference of HepG2 cell cycle</title>
+      <link>https://yz-lab.org/main/publication/refworks1371/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1371/</guid>
+      <description>&lt;p&gt;CI: Copyright (c) 2014; JID: 0373226; 0 (Cell Cycle Proteins); 0 (Hydroxycholesterols); 0 (Receptors, Steroid); 0 (SPAG5 protein, human); 0 (oxysterol binding protein); 767JTD2N31 (25-hydroxycholesterol); OTO: NOTNLM; 2013/01/10 [received]; 2013/12/19 [revised]; 2014/01/03 [accepted]; 2014/01/11 [aheadofprint]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> insulin | YZ Lab</title>
+    <link>https://yz-lab.org/main/tag/insulin/</link>
+      <atom:link href="https://yz-lab.org/main/tag/insulin/index.xml" rel="self" type="application/rss+xml" />
+    <description> insulin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title> insulin</title>
+      <link>https://yz-lab.org/main/tag/insulin/</link>
+    </image>
+    
+    <item>
+      <title>Fat accumulates preferentially in the right rather than the left liver lobe in non-diabetic subjects</title>
+      <link>https://yz-lab.org/main/publication/refworks1439/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1439/</guid>
+      <description>&lt;p&gt;LR: 20180210; CI: Copyright (c) 2017; JID: 100958385; OTO: NOTNLM; 2017/03/28 00:00 [received]; 2017/07/19 00:00 [revised]; 2017/08/14 00:00 [accepted]; 2017/10/02 06:00 [pubmed]; 2017/10/02 06:00 [medline]; 2017/10/02 06:00 [entrez]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Use of HOMA-IR to diagnose non-alcoholic fatty liver disease: a population-based and inter-laboratory study</title>
+      <link>https://yz-lab.org/main/publication/refworks1433/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1433/</guid>
+      <description>&lt;p&gt;LR: 20171028; JID: 0006777; OTO: NOTNLM; 2017/03/06 [received]; 2017/05/15 [accepted]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Obesity/insulin resistance rather than liver fat increases coagulation factor activities and expression in humans</title>
+      <link>https://yz-lab.org/main/publication/refworks1419/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1419/</guid>
+      <description>&lt;p&gt;LR: 20170126; JID: 7608063; OTO: NOTNLM; 2016/09/21 [received]; 2016/11/11 [accepted]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
