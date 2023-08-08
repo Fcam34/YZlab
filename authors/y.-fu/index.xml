@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Fu | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/y.-fu/</link>
+      <atom:link href="https://yz-lab.org/main/authors/y.-fu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Fu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title>Y. Fu</title>
+      <link>https://yz-lab.org/main/authors/y.-fu/</link>
+    </image>
+    
+    <item>
+      <title>Integrated Metabolomics and Lipidomics Analysis Reveal Remodeling of Lipid Metabolism and Amino Acid Metabolism in Glucagon Receptor-Deficient Zebrafish</title>
+      <link>https://yz-lab.org/main/publication/refworks1491/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1491/</guid>
+      <description>&lt;p&gt;LR: 20210202; CI: Copyright (c) 2021; JID: 101630250; OTO: NOTNLM; 2020/09/14 00:00 [received]; 2020/11/30 00:00 [accepted]; 2021/02/01 06:00 [entrez]; 2021/02/02 06:00 [pubmed]; 2021/02/02 06:01 [medline]; epublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

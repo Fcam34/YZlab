@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> lipid droplet | YZ Lab</title>
+    <link>https://yz-lab.org/main/tag/lipid-droplet/</link>
+      <atom:link href="https://yz-lab.org/main/tag/lipid-droplet/index.xml" rel="self" type="application/rss+xml" />
+    <description> lipid droplet</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title> lipid droplet</title>
+      <link>https://yz-lab.org/main/tag/lipid-droplet/</link>
+    </image>
+    
+    <item>
+      <title>PNPLA3 mediates hepatocyte triacylglycerol remodeling</title>
+      <link>https://yz-lab.org/main/publication/refworks1367/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1367/</guid>
+      <description>&lt;p&gt;JID: 0376606; OID: NLM: PMC3966707 [Available on 04/01/15]; OTO: NOTNLM; PMCR: 2015/04/01 00:00; 2014/02/07 [aheadofprint]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

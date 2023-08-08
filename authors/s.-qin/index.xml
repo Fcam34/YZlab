@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Qin | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/s.-qin/</link>
+      <atom:link href="https://yz-lab.org/main/authors/s.-qin/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Qin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title>S. Qin</title>
+      <link>https://yz-lab.org/main/authors/s.-qin/</link>
+    </image>
+    
+    <item>
+      <title>Th22 cells are associated with hepatocellular carcinoma development and progression</title>
+      <link>https://yz-lab.org/main/publication/refworks1313/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1313/</guid>
+      <description>&lt;p&gt;LR: 20140519; JID: 9315242; OID: NLM: PMC4000908; OTO: NOTNLM; 2014/01/06 [received]; 2014/02/24 [accepted]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Association of osteopontin polymorphisms with nasopharyngeal carcinoma risk</title>
+      <link>https://yz-lab.org/main/publication/refworks1294/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1294/</guid>
+      <description>&lt;p&gt;CI: Copyright (c) 2013; JID: 8010936; 2013/09/01 [received]; 2013/09/05 [revised]; 2013/09/27 [accepted]; 2013/10/09 [aheadofprint]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Association of interleukin-12 polymorphisms and serum IL-12p40 levels with osteosarcoma risk</title>
+      <link>https://yz-lab.org/main/publication/refworks1315/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1315/</guid>
+      <description>&lt;p&gt;JID: 9004522; 0 (Interleukin-12 Subunit p40); 2013/08/30 [aheadofprint]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

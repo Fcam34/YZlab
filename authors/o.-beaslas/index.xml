@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Beaslas | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/o.-beaslas/</link>
+      <atom:link href="https://yz-lab.org/main/authors/o.-beaslas/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Beaslas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title>O. Beaslas</title>
+      <link>https://yz-lab.org/main/authors/o.-beaslas/</link>
+    </image>
+    
+    <item>
+      <title>Oxysterol binding proteins: at the crossroads of lipid metabolism, vesicle transport, and cell signaling </title>
+      <link>https://yz-lab.org/main/publication/refworks1246/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1246/</guid>
+      <description>&lt;p&gt;id: 1; issn: print 00093084; publication_type: full_text&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

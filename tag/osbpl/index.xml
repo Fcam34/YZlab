@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> osbpl | YZ Lab</title>
+    <link>https://yz-lab.org/main/tag/osbpl/</link>
+      <atom:link href="https://yz-lab.org/main/tag/osbpl/index.xml" rel="self" type="application/rss+xml" />
+    <description> osbpl</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title> osbpl</title>
+      <link>https://yz-lab.org/main/tag/osbpl/</link>
+    </image>
+    
+    <item>
+      <title>A vertebrate model for the study of lipid binding/transfer protein function: conservation of OSBP-related proteins between zebrafish and human</title>
+      <link>https://yz-lab.org/main/publication/refworks1316/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1316/</guid>
+      <description>&lt;p&gt;CI: Copyright (c) 2013; JID: 0372516; OTO: NOTNLM; 2013/11/21 [received]; 2013/12/02 [accepted]; 2013/12/08 [aheadofprint]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> hepatocytes | YZ Lab</title>
+    <link>https://yz-lab.org/main/tag/hepatocytes/</link>
+      <atom:link href="https://yz-lab.org/main/tag/hepatocytes/index.xml" rel="self" type="application/rss+xml" />
+    <description> hepatocytes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title> hepatocytes</title>
+      <link>https://yz-lab.org/main/tag/hepatocytes/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of ORP2-knockout hepatocytes uncovers a novel function in actin cytoskeletal regulation</title>
+      <link>https://yz-lab.org/main/publication/refworks1456/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1456/</guid>
+      <description>&lt;p&gt;LR: 20181114; JID: 8804484; 0 (OSBPL2 protein, human); 0 (Receptors, Steroid); OTO: NOTNLM; 2017/11/03 06:00 [pubmed]; 2018/11/15 06:00 [medline]; 2017/11/03 06:00 [entrez]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impaired hepatic lipid synthesis from polyunsaturated fatty acids in TM6SF2 E167K variant carriers with NAFLD</title>
+      <link>https://yz-lab.org/main/publication/refworks1426/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1426/</guid>
+      <description>&lt;p&gt;LR: 20170619; CI: Copyright (c) 2017; JID: 8503886; OTO: NOTNLM; 2016/11/28 [received]; 2017/02/07 [revised]; 2017/02/10 [accepted]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Novel hepatic microRNAs upregulated in human nonalcoholic fatty liver disease</title>
+      <link>https://yz-lab.org/main/publication/refworks1420/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1420/</guid>
+      <description>&lt;p&gt;LR: 20160106; CI: (c) 2015; JID: 101607800; 0 (MicroRNAs); OID: NLM: PMC4760405; OTO: NOTNLM; GN: NLM: Original DateCompleted: 20160106; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

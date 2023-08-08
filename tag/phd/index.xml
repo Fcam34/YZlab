@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD | YZ Lab</title>
+    <link>https://yz-lab.org/main/tag/phd/</link>
+      <atom:link href="https://yz-lab.org/main/tag/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>PhD</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title>PhD</title>
+      <link>https://yz-lab.org/main/tag/phd/</link>
+    </image>
+    
+    <item>
+      <title>GW4 PhD Studentship</title>
+      <link>https://yz-lab.org/main/job/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/job/</guid>
+      <description>&lt;img src=&#34;../img/AdverYZ.jpg&#34; width=&#34;390&#34;&gt;
+A PhD studentship is available in the lab (commencing in October 2020). This studentship consists of full UK/EU tuition fees, as well as a Doctoral Stipend matching UK Research Council National Minimum (£15,009 p.a. for 2019-20, updated yearly).  We welcome applicants with all backgrounds (e.g. Computer Science, Mathematics, Engineering, Physics, Bioinformatics, Pharmacy, Biology or Medicine) and the studentship can fund additional training to assist discipline conversion. The studentship will be 3.5 years full time or up to 7 years part-time, and can be longer where additional training is undertaken. Additional research and training funding is available over the course of the PhD training programme. This will covers costs such as courses, conferences and travel, and research consumables. 
+&lt;p&gt;Details please see: &lt;a href=&#34;https://bit.ly/2ppsM3C&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/2ppsM3C&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

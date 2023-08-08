@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joel Downward | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/joel/</link>
+      <atom:link href="https://yz-lab.org/main/authors/joel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joel Downward</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://yz-lab.org/main/authors/joel/avatar_huf4d815d3875697bba894007d66aa4734_783620_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Joel Downward</title>
+      <link>https://yz-lab.org/main/authors/joel/</link>
+    </image>
+    
+  </channel>
+</rss>

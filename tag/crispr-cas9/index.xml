@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> crispr-cas9 | YZ Lab</title>
+    <link>https://yz-lab.org/main/tag/crispr-cas9/</link>
+      <atom:link href="https://yz-lab.org/main/tag/crispr-cas9/index.xml" rel="self" type="application/rss+xml" />
+    <description> crispr-cas9</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title> crispr-cas9</title>
+      <link>https://yz-lab.org/main/tag/crispr-cas9/</link>
+    </image>
+    
+    <item>
+      <title>OSBP-related protein-2 (ORP2): a novel Akt effector that controls cellular energy metabolism</title>
+      <link>https://yz-lab.org/main/publication/refworks1461/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1461/</guid>
+      <description>&lt;p&gt;LR: 20181114; GR: 285223/Academy of Finland; GR: 307415/Academy of Finland; GR: 312491/Academy of Finland; JID: 9705402; 0 (CDC37 protein, human); 0 (Cell Cycle Proteins); 0 (HSP90 Heat-Shock Proteins); 0 (OSBPL2 protein, human); 0 (RNA, Messenger); 0 (Receptors, Steroid); EC 2.7.11.1 (Proto-Oncogene Proteins c-akt); EC 3.6.1.- (Chaperonins); OTO: NOTNLM; 2018/01/05 00:00 [received]; 2018/06/05 00:00 [accepted]; 2018/05/25 00:00 [revised]; 2018/06/28 06:00 [pubmed]; 2018/10/06 06:00 [medline]; 2018/06/28 06:00 [entrez]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of ORP2-knockout hepatocytes uncovers a novel function in actin cytoskeletal regulation</title>
+      <link>https://yz-lab.org/main/publication/refworks1456/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1456/</guid>
+      <description>&lt;p&gt;LR: 20181114; JID: 8804484; 0 (OSBPL2 protein, human); 0 (Receptors, Steroid); OTO: NOTNLM; 2017/11/03 06:00 [pubmed]; 2018/11/15 06:00 [medline]; 2017/11/03 06:00 [entrez]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Clement | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/k.-clement/</link>
+      <atom:link href="https://yz-lab.org/main/authors/k.-clement/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Clement</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title>K. Clement</title>
+      <link>https://yz-lab.org/main/authors/k.-clement/</link>
+    </image>
+    
+    <item>
+      <title>Saturated Fat Is More Metabolically Harmful for the Human Liver Than Unsaturated Fat or Simple Sugars</title>
+      <link>https://yz-lab.org/main/publication/refworks1444/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1444/</guid>
+      <description>&lt;p&gt;LR: 20180723; CI: (c) 2018; ClinicalTrials.gov/NCT02133144; JID: 7805975; 2018/01/11 00:00 [received]; 2018/05/01 00:00 [accepted]; 2018/05/31 06:00 [pubmed]; 2018/05/31 06:00 [medline]; 2018/05/31 06:00 [entrez]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Use of HOMA-IR to diagnose non-alcoholic fatty liver disease: a population-based and inter-laboratory study</title>
+      <link>https://yz-lab.org/main/publication/refworks1433/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1433/</guid>
+      <description>&lt;p&gt;LR: 20171028; JID: 0006777; OTO: NOTNLM; 2017/03/06 [received]; 2017/05/15 [accepted]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
