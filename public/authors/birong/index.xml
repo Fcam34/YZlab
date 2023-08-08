@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Birong Zhang | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/birong/</link>
+      <atom:link href="https://yz-lab.org/main/authors/birong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Birong Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://yz-lab.org/main/authors/birong/avatar_hub3f3a0215f3af16984d3b600ea854f20_70901_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Birong Zhang</title>
+      <link>https://yz-lab.org/main/authors/birong/</link>
+    </image>
+    
+  </channel>
+</rss>

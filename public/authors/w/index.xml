@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W.  | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/w./</link>
+      <atom:link href="https://yz-lab.org/main/authors/w./index.xml" rel="self" type="application/rss+xml" />
+    <description>W. </description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title>W. </title>
+      <link>https://yz-lab.org/main/authors/w./</link>
+    </image>
+    
+    <item>
+      <title>Identification of urinary Gc-globulin as a novel biomarker for bladder cancer by two-dimensional fluorescent differential gel electrophoresis (2D-DIGE)</title>
+      <link>https://yz-lab.org/main/publication/refworks1150/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1150/</guid>
+      <description>&lt;p&gt;CI: Copyright (c) 2012; JID: 101475056; 2012/06/10 [received]; 2012/08/27 [revised]; 2012/09/03 [accepted]; aheadofprint&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

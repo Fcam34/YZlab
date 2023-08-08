@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Liang | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/j.-liang/</link>
+      <atom:link href="https://yz-lab.org/main/authors/j.-liang/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Liang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title>J. Liang</title>
+      <link>https://yz-lab.org/main/authors/j.-liang/</link>
+    </image>
+    
+    <item>
+      <title>Cripto-1 expression and its prognostic value in human bladder cancer patients</title>
+      <link>https://yz-lab.org/main/publication/refworks1409/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1409/</guid>
+      <description>&lt;p&gt;JID: 8409922; 0 (GPI-Linked Proteins); 0 (Intercellular Signaling Peptides and Proteins); 0 (Neoplasm Proteins); 0 (TDGF1 protein, human); 2014/07/28 [received]; 2014/09/30 [accepted]; 2014/10/19 [aheadofprint]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictive value of Sox2 expression in transurethral resection specimens in patients with T1 bladder cancer</title>
+      <link>https://yz-lab.org/main/publication/refworks1390/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://yz-lab.org/main/publication/refworks1390/</guid>
+      <description>&lt;p&gt;JID: 9435512; 0 (SOX2 protein, human); 0 (SOXB1 Transcription Factors); 0 (Tumor Markers, Biological); 2012/11/19 [received]; 2012/11/30 [accepted]; 2013/01/10 [aheadofprint]; ppublish&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

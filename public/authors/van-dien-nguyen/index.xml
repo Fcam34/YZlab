@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Van Dien Nguyen | YZ Lab</title>
+    <link>https://yz-lab.org/main/authors/van-dien-nguyen/</link>
+      <atom:link href="https://yz-lab.org/main/authors/van-dien-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Van Dien Nguyen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://yz-lab.org/main/media/icon_hued1f538d73f883b5373c8a98edb20792_18869_512x512_fill_lanczos_center_3.png</url>
+      <title>Van Dien Nguyen</title>
+      <link>https://yz-lab.org/main/authors/van-dien-nguyen/</link>
+    </image>
+    
+  </channel>
+</rss>
