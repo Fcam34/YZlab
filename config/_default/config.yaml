@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "YZ Lab"
-baseURL: 'https://yz-lab.org/main/' # Website URL
+baseURL: 'https://fcam34.github.io/YZlab/' # Website URL
 copyrigh: '&copy; YZ Lab {year}'
 ############################
 ## LANGUAGE
